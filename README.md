@@ -9,7 +9,7 @@ I build things that solve problems — from AI-powered assistants to practical s
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheerparacha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-shaheer-paracha)
 [![Portfolio](https://img.shields.io/badge/Building_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/shaheerparacha)
 
 ---
