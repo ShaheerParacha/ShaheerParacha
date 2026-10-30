@@ -138,14 +138,14 @@ An initiative focused on software products and practical AI-powered solutions.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheerparacha/shaheerparacha/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaheerparacha/shaheerparacha/output/github-snake.svg">
-    <img alt="GitHub contribution animation" 
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/shaheerparacha/shaheerparacha/output/github-snake.svg" width="100%">
   </picture>
 </p>
 
 ---
 
 <p align="center">
-   **BUILDING. LEARNING. SHIPPING.**
+   BUILDING. LEARNING. SHIPPING.
   <br/>
   <sub>One idea, one experiment, one commit at a time.</sub>
 </p>
